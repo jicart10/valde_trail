@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Valdealgorfa Trail - Senderos del Secano</title>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Valdealgorfa Trail</h1>
+    <p>Senderos del Secano</p>
+  </header>
+
+  <nav>
+    <a href="#info">La Carrera</a>
+    <a href="#inscripciones">Inscripciones</a>
+    <a href="#contacto">Contacto</a>
+  </nav>
+
+  <section class="carousel">
+    <div class="slides">
+      <img src="imagen1.jpg" alt="Paisaje 1">
+      <img src="imagen2.jpg" alt="Paisaje 2">
+      <img src="imagen3.jpg" alt="Paisaje 3">
+    </div>
+  </section>
+
+  <section id="info">
+    <h2>Sobre el Evento</h2>
+    <p>El <strong>Valdealgorfa Trail</strong> es una carrera de montaña que recorre los paisajes únicos del Bajo Aragón. Una mezcla de naturaleza, cultura y deporte para todos los niveles: 7K, 12K y 21K. Forma parte del movimiento para revitalizar la España rural y dar a conocer Valdealgorfa como destino deportivo y turístico.</p>
+  </section>
+
+  <section id="inscripciones">
+    <h2>Inscripciones</h2>
+    <p>Muy pronto habilitaremos las inscripciones. Podrás pagar de forma segura con Stripe o PayPal. Tendremos diferentes tarifas por modalidad y una bolsa del corredor con camiseta técnica, avituallamientos y más.</p>
+  </section>
+
+  <section id="contacto">
+    <h2>Contacto</h2>
+    <p>Para más información, colaboración o patrocinio, contáctanos en:</p>
+    <p><a href="mailto:trailvaldealgorfa@gmail.com">trailvaldealgorfa@gmail.com</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Valdealgorfa Trail. Todos los derechos reservados.</p>
+  </footer>
+</body>
+</html>
